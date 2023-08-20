@@ -1,0 +1,45 @@
+
+---------- 10.OUT
+!    total energy              =     -41.74939708 Ry
+
+---------- 100.OUT
+!    total energy              =     -45.28225493 Ry
+
+---------- 110.OUT
+!    total energy              =     -45.28326929 Ry
+
+---------- 120.OUT
+!    total energy              =     -45.28387689 Ry
+
+---------- 130.OUT
+!    total energy              =     -45.28419878 Ry
+
+---------- 140.OUT
+!    total energy              =     -45.28435652 Ry
+
+---------- 150.OUT
+!    total energy              =     -45.28442545 Ry
+
+---------- 20.OUT
+!    total energy              =     -43.99988734 Ry
+
+---------- 30.OUT
+!    total energy              =     -44.74907165 Ry
+
+---------- 40.OUT
+!    total energy              =     -45.05785423 Ry
+
+---------- 50.OUT
+!    total energy              =     -45.19518371 Ry
+
+---------- 60.OUT
+!    total energy              =     -45.24325529 Ry
+
+---------- 70.OUT
+!    total energy              =     -45.26423310 Ry
+
+---------- 80.OUT
+!    total energy              =     -45.27536969 Ry
+
+---------- 90.OUT
+!    total energy              =     -45.28001781 Ry

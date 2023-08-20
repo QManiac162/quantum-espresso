@@ -1,0 +1,38 @@
+&CONTROL
+calculation = 'relax'
+forc_conv_thr = 0.001
+pseudo_dir = '.'
+disk_io = 'none'
+/
+
+&SYSTEM
+ibrav = 4
+A = 2.46729e+00
+C = 7.80307e+00
+degauss = 1.00000e-02
+ecutrho = 4.50000e+02
+ecutwfc = 5.00000e+01
+nat = 4
+ntyp = 1
+occupations = "smearing"
+smearing = "gaussian"
+/
+
+&ELECTRONS
+/
+
+&IONS
+ion_dynamics = "bfgs"
+/
+
+ATOMIC_SPECIES
+C 12.01070 C.pbe-n-rrkjus_psl.1.0.0.UPF
+
+ATOMIC_POSITIONS {crystal}
+C	0.000000	0.000000	0.250000
+C	0.000000	0.000000	0.750000
+C	0.333333	0.666667	0.250000
+C	0.666667	0.333333	0.750000
+
+K_POINTS {automatic}
+6 6 2 0 0 0

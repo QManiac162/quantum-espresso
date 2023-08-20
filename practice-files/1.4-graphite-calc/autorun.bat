@@ -1,0 +1,10 @@
+pw < 2.in > 2.out
+pw < 4.in > 4.out
+pw < 6.in > 6.out
+pw < 8.in > 8.out
+pw < 10.in > 10.out
+pw < 12.in > 12.out
+pw < 14.in > 14.out
+pw < 16.in > 16.out
+pw < 18.in > 18.out
+pw < 20.in > 20.out

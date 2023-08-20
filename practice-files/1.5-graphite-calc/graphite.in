@@ -1,0 +1,35 @@
+! Optimization of atomic positions and cell parameters
+
+&CONTROL
+calculation = 'scf'
+pseudo_dir = '.'
+disk_io = 'none'
+/
+
+&SYSTEM
+celldm(1) = 4.660800185
+celldm(3) = 3.164151465
+degauss = 1.00000e-02
+ecutrho = 4.50000e+02
+ecutwfc = 5.00000e+01
+ibrav = 4
+nat = 4
+ntyp = 1
+occupations = "smearing"
+smearing = "gaussian"
+/
+
+&ELECTRONS
+/
+
+ATOMIC_SPECIES
+C 12.01070 C.pbe-n-rrkjus_psl.1.0.0.UPF
+
+ATOMIC_POSITIONS {crystal}
+C       -0.000000000  -0.000000000   0.250000000
+C        0.000000000   0.000000000   0.750000000
+C        0.333333000   0.666667000   0.250000000
+C        0.666667000   0.333333000   0.750000000
+
+K_POINTS {automatic}
+6 6 2 0 0 0

@@ -1,0 +1,41 @@
+Microsoft Windows [Version 10.0.22631.2191]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\DEEP\OneDrive\Desktop\Suite\Quantum Espresso\files\1-graphite\1.8-graphite-calc>autorun.bat
+
+C:\Users\DEEP\OneDrive\Desktop\Suite\Quantum Espresso\files\1-graphite\1.8-graphite-calc>pw  0<1.in 1>1.out
+
+C:\Users\DEEP\OneDrive\Desktop\Suite\Quantum Espresso\files\1-graphite\1.8-graphite-calc>pw  0<2.in 1>2.out
+
+C:\Users\DEEP\OneDrive\Desktop\Suite\Quantum Espresso\files\1-graphite\1.8-graphite-calc>pw  0<3.in 1>3.out
+
+C:\Users\DEEP\OneDrive\Desktop\Suite\Quantum Espresso\files\1-graphite\1.8-graphite-calc>pw  0<4.in 1>4.out
+
+C:\Users\DEEP\OneDrive\Desktop\Suite\Quantum Espresso\files\1-graphite\1.8-graphite-calc>pw  0<5.in 1>5.out
+
+C:\Users\DEEP\OneDrive\Desktop\Suite\Quantum Espresso\files\1-graphite\1.8-graphite-calc>pw  0<6.in 1>6.out
+
+C:\Users\DEEP\OneDrive\Desktop\Suite\Quantum Espresso\files\1-graphite\1.8-graphite-calc>pw  0<7.in 1>7.out
+
+C:\Users\DEEP\OneDrive\Desktop\Suite\Quantum Espresso\files\1-graphite\1.8-graphite-calc>pw  0<8.in 1>8.out
+
+C:\Users\DEEP\OneDrive\Desktop\Suite\Quantum Espresso\files\1-graphite\1.8-graphite-calc>pw  0<9.in 1>9.out
+
+C:\Users\DEEP\OneDrive\Desktop\Suite\Quantum Espresso\files\1-graphite\1.8-graphite-calc>pw  0<10.in 1>10.out
+
+C:\Users\DEEP\OneDrive\Desktop\Suite\Quantum Espresso\files\1-graphite\1.8-graphite-calc>pw  0<11.in 1>11.out
+
+C:\Users\DEEP\OneDrive\Desktop\Suite\Quantum Espresso\files\1-graphite\1.8-graphite-calc>pw  0<12.in 1>12.out
+
+C:\Users\DEEP\OneDrive\Desktop\Suite\Quantum Espresso\files\1-graphite\1.8-graphite-calc>findstr "volume !" *.out > output.txt
+
+C:\Users\DEEP\OneDrive\Desktop\Suite\Quantum Espresso\files\1-graphite\1.8-graphite-calc>ev
+     Lattice parameter or Volume are in (au, Ang) > au
+     Enter type of bravais lattice (fcc, bcc, sc, noncubic) > noncubic
+     Enter type of equation of state :
+     1=birch1, 2=birch2, 3=keane, 4=murnaghan > 4
+     Input file > ev.txt
+     Output file > out.txt
+
+
+C:\Users\DEEP\OneDrive\Desktop\Suite\Quantum Espresso\files\1-graphite\1.8-graphite-calc>

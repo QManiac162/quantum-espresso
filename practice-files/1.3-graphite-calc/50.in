@@ -1,0 +1,29 @@
+&CONTROL
+calculation = 'scf'
+pseudo_dir = '.'
+disk_io = 'none'
+/
+
+&SYSTEM
+ibrav = 4
+A = 2.467
+C = 8.685
+nat = 4
+ntyp = 1
+ecutwfc = 50
+/
+
+&ELECTRONS
+/
+
+ATOMIC_SPECIES
+C 12.011 C.pz-vbc.UPF
+
+ATOMIC_POSITIONS {crystal}
+C	0	0	0.75
+C	0	0	0.25
+C	0.3333	0.6667	0.75
+C	0.6667	0.3333	0.25
+
+K_POINTS {automatic}
+2 2 2 0 0 0

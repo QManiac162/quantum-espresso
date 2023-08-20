@@ -1,0 +1,85 @@
+Microsoft Windows [Version 10.0.22631.2191]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\DEEP\OneDrive\Desktop\Suite\Quantum Espresso\files\1-graphite\1.5-graphite-calc>autorun.bat
+
+C:\Users\DEEP\OneDrive\Desktop\Suite\Quantum Espresso\files\1-graphite\1.5-graphite-calc>pw  0<10.in 1>10.out
+
+C:\Users\DEEP\OneDrive\Desktop\Suite\Quantum Espresso\files\1-graphite\1.5-graphite-calc>pw  0<20.in 1>20.out
+
+C:\Users\DEEP\OneDrive\Desktop\Suite\Quantum Espresso\files\1-graphite\1.5-graphite-calc>pw  0<30.in 1>30.out
+
+C:\Users\DEEP\OneDrive\Desktop\Suite\Quantum Espresso\files\1-graphite\1.5-graphite-calc>pw  0<40.in 1>40.out
+
+C:\Users\DEEP\OneDrive\Desktop\Suite\Quantum Espresso\files\1-graphite\1.5-graphite-calc>pw  0<50.in 1>50.out
+
+C:\Users\DEEP\OneDrive\Desktop\Suite\Quantum Espresso\files\1-graphite\1.5-graphite-calc>pw  0<60.in 1>60.out
+
+C:\Users\DEEP\OneDrive\Desktop\Suite\Quantum Espresso\files\1-graphite\1.5-graphite-calc>pw  0<70.in 1>70.out
+
+C:\Users\DEEP\OneDrive\Desktop\Suite\Quantum Espresso\files\1-graphite\1.5-graphite-calc>pw  0<80.in 1>80.out
+
+C:\Users\DEEP\OneDrive\Desktop\Suite\Quantum Espresso\files\1-graphite\1.5-graphite-calc>pw  0<90.in 1>90.out
+
+C:\Users\DEEP\OneDrive\Desktop\Suite\Quantum Espresso\files\1-graphite\1.5-graphite-calc>pw  0<100.in 1>100.out
+
+C:\Users\DEEP\OneDrive\Desktop\Suite\Quantum Espresso\files\1-graphite\1.5-graphite-calc>pw  0<110.in 1>110.out
+
+C:\Users\DEEP\OneDrive\Desktop\Suite\Quantum Espresso\files\1-graphite\1.5-graphite-calc>pw  0<120.in 1>120.out
+
+C:\Users\DEEP\OneDrive\Desktop\Suite\Quantum Espresso\files\1-graphite\1.5-graphite-calc>pw  0<130.in 1>130.out
+
+C:\Users\DEEP\OneDrive\Desktop\Suite\Quantum Espresso\files\1-graphite\1.5-graphite-calc>pw  0<140.in 1>140.out
+
+C:\Users\DEEP\OneDrive\Desktop\Suite\Quantum Espresso\files\1-graphite\1.5-graphite-calc>pw  0<150.in 1>150.out
+
+C:\Users\DEEP\OneDrive\Desktop\Suite\Quantum Espresso\files\1-graphite\1.5-graphite-calc>find "!" *.out
+
+---------- 10.OUT
+!    total energy              =     -41.74939708 Ry
+
+---------- 100.OUT
+!    total energy              =     -45.28225493 Ry
+
+---------- 110.OUT
+!    total energy              =     -45.28326929 Ry
+
+---------- 120.OUT
+!    total energy              =     -45.28387689 Ry
+
+---------- 130.OUT
+!    total energy              =     -45.28419878 Ry
+
+---------- 140.OUT
+!    total energy              =     -45.28435652 Ry
+
+---------- 150.OUT
+!    total energy              =     -45.28442545 Ry
+
+---------- 20.OUT
+!    total energy              =     -43.99988734 Ry
+
+---------- 30.OUT
+!    total energy              =     -44.74907165 Ry
+
+---------- 40.OUT
+!    total energy              =     -45.05785423 Ry
+
+---------- 50.OUT
+!    total energy              =     -45.19518371 Ry
+
+---------- 60.OUT
+!    total energy              =     -45.24325529 Ry
+
+---------- 70.OUT
+!    total energy              =     -45.26423310 Ry
+
+---------- 80.OUT
+!    total energy              =     -45.27536969 Ry
+
+---------- 90.OUT
+!    total energy              =     -45.28001781 Ry
+
+C:\Users\DEEP\OneDrive\Desktop\Suite\Quantum Espresso\files\1-graphite\1.5-graphite-calc>find "!" *.out > totalene.txt
+
+C:\Users\DEEP\OneDrive\Desktop\Suite\Quantum Espresso\files\1-graphite\1.5-graphite-calc>

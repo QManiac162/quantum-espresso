@@ -1,0 +1,15 @@
+pw < 10.in > 10.out
+pw < 20.in > 20.out
+pw < 30.in > 30.out
+pw < 40.in > 40.out
+pw < 50.in > 50.out
+pw < 60.in > 60.out
+pw < 70.in > 70.out
+pw < 80.in > 80.out
+pw < 90.in > 90.out
+pw < 100.in > 100.out
+pw < 110.in > 110.out
+pw < 120.in > 120.out
+pw < 130.in > 130.out
+pw < 140.in > 140.out
+pw < 150.in > 150.out
