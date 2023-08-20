@@ -1,0 +1,31 @@
+
+     Program PWSCF v.6.4.1 starts on 20Aug2023 at  0:28:25 
+
+     This program is part of the open-source Quantum ESPRESSO suite
+     for quantum simulation of materials; please cite
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 21 395502 (2009);
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 29 465901 (2017);
+          URL http://www.quantum-espresso.org", 
+     in publications or presentations arising from this work. More details at
+     http://www.quantum-espresso.org/quote
+
+     Parallel version (MPI & OpenMP), running on      16 processor cores
+     Number of MPI processes:                 1
+     Threads/MPI process:                    16
+
+     MPI processes distributed on     1 nodes
+     Waiting for input...
+     Reading input from standard input
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine card_kpoints (1):
+      error while reading crystal k points
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+     stopping ...
+
+job aborted:
+[ranks] message
+
+[0] application aborted
+aborting MPI_COMM_WORLD (comm=0x44000000), error 1, comm rank 0
