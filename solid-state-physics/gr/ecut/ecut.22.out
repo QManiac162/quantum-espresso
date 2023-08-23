@@ -1,5 +1,5 @@
 
-     Program PWSCF v.7.0 starts on 24Aug2023 at  0:37:35 
+     Program PWSCF v.7.0 starts on 24Aug2023 at  1:49:44 
 
      This program is part of the open-source Quantum ESPRESSO suite
      for quantum simulation of materials; please cite
@@ -11,7 +11,7 @@
      http://www.quantum-espresso.org/quote
 
      Serial version
-     5472 MiB available memory on the printing compute node when the environment starts
+     5120 MiB available memory on the printing compute node when the environment starts
 
      Waiting for input...
      Reading input from standard input
@@ -141,7 +141,7 @@
 
      negative rho (up, down):  6.214E-04 0.000E+00
 
-     total cpu time spent up to now is        0.8 secs
+     total cpu time spent up to now is        0.7 secs
 
      total energy              =     -23.74406808 Ry
      estimated scf accuracy    <       0.00318159 Ry
@@ -174,7 +174,7 @@
 
      negative rho (up, down):  6.310E-04 0.000E+00
 
-     total cpu time spent up to now is        1.4 secs
+     total cpu time spent up to now is        1.3 secs
 
      total energy              =     -23.74580361 Ry
      estimated scf accuracy    <       0.00000210 Ry
@@ -185,7 +185,7 @@
 
      negative rho (up, down):  6.347E-04 0.000E+00
 
-     total cpu time spent up to now is        1.6 secs
+     total cpu time spent up to now is        1.5 secs
 
      total energy              =     -23.74580575 Ry
      estimated scf accuracy    <       0.00000170 Ry
@@ -293,48 +293,48 @@
 
      Writing all to output data dir ../tmp/gr.save/
 
-     init_run     :      0.20s CPU      0.21s WALL (       1 calls)
-     electrons    :      0.88s CPU      1.44s WALL (       1 calls)
+     init_run     :      0.19s CPU      0.21s WALL (       1 calls)
+     electrons    :      0.88s CPU      1.46s WALL (       1 calls)
 
      Called by init_run:
-     wfcinit      :      0.07s CPU      0.07s WALL (       1 calls)
-     potinit      :      0.01s CPU      0.01s WALL (       1 calls)
+     wfcinit      :      0.06s CPU      0.07s WALL (       1 calls)
+     potinit      :      0.01s CPU      0.02s WALL (       1 calls)
      hinit0       :      0.12s CPU      0.12s WALL (       1 calls)
 
      Called by electrons:
-     c_bands      :      0.75s CPU      1.22s WALL (       7 calls)
-     sum_band     :      0.09s CPU      0.10s WALL (       7 calls)
+     c_bands      :      0.74s CPU      1.16s WALL (       7 calls)
+     sum_band     :      0.10s CPU      0.10s WALL (       7 calls)
      v_of_rho     :      0.03s CPU      0.03s WALL (       8 calls)
-     newd         :      0.01s CPU      0.01s WALL (       8 calls)
+     newd         :      0.01s CPU      0.02s WALL (       8 calls)
      mix_rho      :      0.00s CPU      0.00s WALL (       7 calls)
 
      Called by c_bands:
      init_us_2    :      0.02s CPU      0.02s WALL (     285 calls)
      init_us_2:cp :      0.02s CPU      0.02s WALL (     285 calls)
-     cegterg      :      0.68s CPU      0.74s WALL (     133 calls)
+     cegterg      :      0.66s CPU      0.72s WALL (     133 calls)
 
      Called by *egterg:
      cdiaghg      :      0.03s CPU      0.03s WALL (     764 calls)
-     h_psi        :      0.55s CPU      0.59s WALL (     783 calls)
+     h_psi        :      0.53s CPU      0.57s WALL (     783 calls)
      s_psi        :      0.03s CPU      0.03s WALL (     783 calls)
      g_psi        :      0.00s CPU      0.00s WALL (     631 calls)
 
      Called by h_psi:
      h_psi:calbec :      0.03s CPU      0.03s WALL (     783 calls)
-     vloc_psi     :      0.49s CPU      0.52s WALL (     783 calls)
+     vloc_psi     :      0.47s CPU      0.51s WALL (     783 calls)
      add_vuspsi   :      0.03s CPU      0.03s WALL (     783 calls)
 
      General routines
      calbec       :      0.04s CPU      0.04s WALL (     916 calls)
-     fft          :      0.07s CPU      0.07s WALL (      88 calls)
+     fft          :      0.07s CPU      0.08s WALL (      88 calls)
      ffts         :      0.00s CPU      0.00s WALL (       7 calls)
-     fftw         :      0.49s CPU      0.53s WALL (    8322 calls)
+     fftw         :      0.48s CPU      0.52s WALL (    8322 calls)
 
 
-     PWSCF        :      1.13s CPU      2.11s WALL
+     PWSCF        :      1.12s CPU      2.18s WALL
 
 
-   This run was terminated on:   0:37:37  24Aug2023            
+   This run was terminated on:   1:49:46  24Aug2023            
 
 =------------------------------------------------------------------------------=
    JOB DONE.

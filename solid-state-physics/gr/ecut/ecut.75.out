@@ -1,5 +1,5 @@
 
-     Program PWSCF v.7.0 starts on 24Aug2023 at  0:39:26 
+     Program PWSCF v.7.0 starts on 24Aug2023 at  1:51:34 
 
      This program is part of the open-source Quantum ESPRESSO suite
      for quantum simulation of materials; please cite
@@ -11,7 +11,7 @@
      http://www.quantum-espresso.org/quote
 
      Serial version
-     5470 MiB available memory on the printing compute node when the environment starts
+     5122 MiB available memory on the printing compute node when the environment starts
 
      Waiting for input...
      Reading input from standard input
@@ -145,7 +145,7 @@
      Davidson diagonalization with overlap
      ethr =  2.43E-03,  avg # of iterations =  2.8
 
-     total cpu time spent up to now is        3.4 secs
+     total cpu time spent up to now is        3.3 secs
 
      total energy              =     -23.89279986 Ry
      estimated scf accuracy    <       0.00569626 Ry
@@ -160,7 +160,7 @@
      c_bands:  1 eigenvalues not converged
      ethr =  7.12E-05,  avg # of iterations = 17.7
 
-     total cpu time spent up to now is        5.9 secs
+     total cpu time spent up to now is        5.7 secs
 
      total energy              =     -23.91512896 Ry
      estimated scf accuracy    <       0.00757996 Ry
@@ -169,7 +169,7 @@
      Davidson diagonalization with overlap
      ethr =  7.12E-05,  avg # of iterations =  2.1
 
-     total cpu time spent up to now is        6.6 secs
+     total cpu time spent up to now is        6.4 secs
 
      total energy              =     -23.91262224 Ry
      estimated scf accuracy    <       0.01149678 Ry
@@ -180,7 +180,7 @@
 
      negative rho (up, down):  3.365E-06 0.000E+00
 
-     total cpu time spent up to now is        7.2 secs
+     total cpu time spent up to now is        7.0 secs
 
      total energy              =     -23.90939759 Ry
      estimated scf accuracy    <       0.00605707 Ry
@@ -191,7 +191,7 @@
 
      negative rho (up, down):  6.158E-06 0.000E+00
 
-     total cpu time spent up to now is        7.8 secs
+     total cpu time spent up to now is        7.6 secs
 
      total energy              =     -23.91008941 Ry
      estimated scf accuracy    <       0.00063207 Ry
@@ -202,7 +202,7 @@
 
      negative rho (up, down):  3.998E-06 0.000E+00
 
-     total cpu time spent up to now is        8.9 secs
+     total cpu time spent up to now is        8.6 secs
 
      total energy              =     -23.91150419 Ry
      estimated scf accuracy    <       0.00073967 Ry
@@ -213,7 +213,7 @@
 
      negative rho (up, down):  1.283E-05 0.000E+00
 
-     total cpu time spent up to now is        9.6 secs
+     total cpu time spent up to now is        9.2 secs
 
      total energy              =     -23.90978381 Ry
      estimated scf accuracy    <       0.00311518 Ry
@@ -225,7 +225,7 @@
 
      negative rho (up, down):  1.067E-05 0.000E+00
 
-     total cpu time spent up to now is       10.8 secs
+     total cpu time spent up to now is       10.5 secs
 
      total energy              =     -23.91085003 Ry
      estimated scf accuracy    <       0.00170670 Ry
@@ -236,7 +236,7 @@
 
      negative rho (up, down):  1.642E-05 0.000E+00
 
-     total cpu time spent up to now is       11.5 secs
+     total cpu time spent up to now is       11.1 secs
 
      total energy              =     -23.91101433 Ry
      estimated scf accuracy    <       0.00142211 Ry
@@ -247,7 +247,7 @@
 
      negative rho (up, down):  4.399E-05 0.000E+00
 
-     total cpu time spent up to now is       12.1 secs
+     total cpu time spent up to now is       11.7 secs
 
      total energy              =     -23.91153502 Ry
      estimated scf accuracy    <       0.00170942 Ry
@@ -258,7 +258,7 @@
 
      negative rho (up, down):  9.143E-06 0.000E+00
 
-     total cpu time spent up to now is       12.7 secs
+     total cpu time spent up to now is       12.4 secs
 
      total energy              =     -23.91025197 Ry
      estimated scf accuracy    <       0.00271222 Ry
@@ -269,7 +269,7 @@
 
      negative rho (up, down):  2.037E-06 0.000E+00
 
-     total cpu time spent up to now is       13.3 secs
+     total cpu time spent up to now is       13.0 secs
 
      total energy              =     -23.91018504 Ry
      estimated scf accuracy    <       0.00055664 Ry
@@ -280,7 +280,7 @@
 
      negative rho (up, down):  1.623E-06 0.000E+00
 
-     total cpu time spent up to now is       14.0 secs
+     total cpu time spent up to now is       13.7 secs
 
      total energy              =     -23.91023950 Ry
      estimated scf accuracy    <       0.00014584 Ry
@@ -291,7 +291,7 @@
 
      negative rho (up, down):  1.408E-06 0.000E+00
 
-     total cpu time spent up to now is       14.8 secs
+     total cpu time spent up to now is       14.5 secs
 
      total energy              =     -23.91024705 Ry
      estimated scf accuracy    <       0.00008541 Ry
@@ -300,11 +300,11 @@
      Davidson diagonalization with overlap
      ethr =  1.07E-06,  avg # of iterations =  1.7
 
-     negative rho (up, down):  1.619E-06 0.000E+00
+     negative rho (up, down):  1.618E-06 0.000E+00
 
-     total cpu time spent up to now is       15.4 secs
+     total cpu time spent up to now is       15.1 secs
 
-     total energy              =     -23.91044765 Ry
+     total energy              =     -23.91044763 Ry
      estimated scf accuracy    <       0.00009707 Ry
 
      iteration # 17     ecut=    75.00 Ry     beta= 0.70
@@ -313,10 +313,10 @@
 
      negative rho (up, down):  1.846E-06 0.000E+00
 
-     total cpu time spent up to now is       16.1 secs
+     total cpu time spent up to now is       15.7 secs
 
      total energy              =     -23.91018366 Ry
-     estimated scf accuracy    <       0.00048369 Ry
+     estimated scf accuracy    <       0.00048367 Ry
 
      iteration # 18     ecut=    75.00 Ry     beta= 0.70
      Davidson diagonalization with overlap
@@ -324,7 +324,7 @@
 
      negative rho (up, down):  2.579E-06 0.000E+00
 
-     total cpu time spent up to now is       16.8 secs
+     total cpu time spent up to now is       16.4 secs
 
      total energy              =     -23.91022721 Ry
      estimated scf accuracy    <       0.00002027 Ry
@@ -335,7 +335,7 @@
 
      negative rho (up, down):  3.398E-06 0.000E+00
 
-     total cpu time spent up to now is       17.8 secs
+     total cpu time spent up to now is       17.5 secs
 
      total energy              =     -23.91023025 Ry
      estimated scf accuracy    <       0.00008354 Ry
@@ -346,7 +346,7 @@
 
      negative rho (up, down):  3.576E-06 0.000E+00
 
-     total cpu time spent up to now is       18.4 secs
+     total cpu time spent up to now is       18.1 secs
 
      total energy              =     -23.91022739 Ry
      estimated scf accuracy    <       0.00001366 Ry
@@ -357,7 +357,7 @@
 
      negative rho (up, down):  3.713E-06 0.000E+00
 
-     total cpu time spent up to now is       19.2 secs
+     total cpu time spent up to now is       18.8 secs
 
      End of self-consistent calculation
 
@@ -445,8 +445,8 @@
      internal energy E=F+TS    =     -23.91004958 Ry
 
      The total energy is F=E-TS. E is the sum of the following terms:
-     one-electron contribution =     -90.80093743 Ry
-     hartree contribution      =      47.23316526 Ry
+     one-electron contribution =     -90.80093744 Ry
+     hartree contribution      =      47.23316528 Ry
      xc contribution           =      -8.30532668 Ry
      ewald contribution        =      27.96304927 Ry
 
@@ -454,8 +454,8 @@
 
      Writing all to output data dir ../tmp/gr.save/
 
-     init_run     :      0.53s CPU      0.55s WALL (       1 calls)
-     electrons    :     16.69s CPU     18.60s WALL (       1 calls)
+     init_run     :      0.53s CPU      0.56s WALL (       1 calls)
+     electrons    :     16.47s CPU     18.17s WALL (       1 calls)
 
      Called by init_run:
      wfcinit      :      0.27s CPU      0.27s WALL (       1 calls)
@@ -463,8 +463,8 @@
      hinit0       :      0.21s CPU      0.21s WALL (       1 calls)
 
      Called by electrons:
-     c_bands      :     13.91s CPU     15.57s WALL (      22 calls)
-     sum_band     :      2.05s CPU      2.09s WALL (      22 calls)
+     c_bands      :     13.69s CPU     15.22s WALL (      22 calls)
+     sum_band     :      2.05s CPU      2.08s WALL (      22 calls)
      v_of_rho     :      0.40s CPU      0.40s WALL (      22 calls)
      newd         :      0.24s CPU      0.25s WALL (      22 calls)
      mix_rho      :      0.09s CPU      0.09s WALL (      22 calls)
@@ -472,30 +472,30 @@
      Called by c_bands:
      init_us_2    :      0.31s CPU      0.32s WALL (     855 calls)
      init_us_2:cp :      0.31s CPU      0.32s WALL (     855 calls)
-     cegterg      :     13.28s CPU     13.45s WALL (     418 calls)
+     cegterg      :     13.02s CPU     13.24s WALL (     418 calls)
 
      Called by *egterg:
      cdiaghg      :      0.10s CPU      0.10s WALL (    2051 calls)
-     h_psi        :     10.31s CPU     10.47s WALL (    2089 calls)
-     s_psi        :      0.53s CPU      0.54s WALL (    2089 calls)
+     h_psi        :     10.11s CPU     10.31s WALL (    2089 calls)
+     s_psi        :      0.51s CPU      0.52s WALL (    2089 calls)
      g_psi        :      0.08s CPU      0.08s WALL (    1652 calls)
 
      Called by h_psi:
-     h_psi:calbec :      0.56s CPU      0.57s WALL (    2089 calls)
-     vloc_psi     :      9.17s CPU      9.31s WALL (    2089 calls)
-     add_vuspsi   :      0.53s CPU      0.54s WALL (    2089 calls)
+     h_psi:calbec :      0.55s CPU      0.56s WALL (    2089 calls)
+     vloc_psi     :      9.00s CPU      9.18s WALL (    2089 calls)
+     add_vuspsi   :      0.51s CPU      0.52s WALL (    2089 calls)
 
      General routines
-     calbec       :      0.73s CPU      0.74s WALL (    2507 calls)
+     calbec       :      0.72s CPU      0.73s WALL (    2507 calls)
      fft          :      0.27s CPU      0.27s WALL (     243 calls)
      ffts         :      0.02s CPU      0.02s WALL (      22 calls)
-     fftw         :      9.67s CPU      9.82s WALL (   24220 calls)
+     fftw         :      9.52s CPU      9.70s WALL (   24220 calls)
 
 
-     PWSCF        :     17.28s CPU     19.93s WALL
+     PWSCF        :     17.08s CPU     19.34s WALL
 
 
-   This run was terminated on:   0:39:46  24Aug2023            
+   This run was terminated on:   1:51:54  24Aug2023            
 
 =------------------------------------------------------------------------------=
    JOB DONE.
