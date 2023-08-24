@@ -1,0 +1,49 @@
+OpenGL version: 4.6.0 Compatibility Profile Context 22.20.28.220830
+Video configuration: AMD Radeon(TM) Graphics
+Maximum supported width and height of the viewport: 16384 x 16384
+OpenGL depth buffer bit: 16
+
+
+E:\Lenevo-Ideapad-Gaming\AcPro\3-nanoparticle-physics\quantum-espresso\solid-state-physics\gr\rho\gr_rho.cube
+====================================================================================
+Title                Cubefile created from PWScf calculation
+Dimensions           20 20 120
+
+Lattice parameters
+
+   a        b        c       alpha    beta     gamma
+ 2.46390  2.46390 15.00002  90.0000  90.0000 120.0001
+
+Unit-cell volume = 78.862233 Å^3
+
+Total number of polygons and unique vertices on slices;
+      (1 0 0):       172 (      141),       172 (      141)
+      (0 1 0):       172 (      141),       172 (      141)
+      (0 0 1):         0 (        0),         0 (        0)
+====================================================================================
+
+====================================================================================
+Title                Cubefile created from PWScf calculation
+
+Lattice type        P
+Space group name    P 1
+Space group number  1
+Setting number      1
+
+Lattice parameters
+
+   a        b        c       alpha    beta     gamma
+ 1.00000  1.00000  1.00000  90.0000  90.0000  90.0000
+
+Unit-cell volume = 1.000000 Å^3
+
+Structure parameters
+
+                       x          y          z          Occ.     U    Site      Sym.
+   1 C   C1          0.00000    1.42254    7.50000    1.000    0.000    1          -
+   2 C   C2          1.23195    0.71127    7.50000    1.000    0.000    1          -
+====================================================================================
+
+Number of polygons and unique vertices on isosurface = 2456 (1298)
+2 atoms, 1 bonds, 0 polyhedra; CPU time = 8 ms
+

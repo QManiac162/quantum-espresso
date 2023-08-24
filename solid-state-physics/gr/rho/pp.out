@@ -1,0 +1,52 @@
+
+     Program POST-PROC v.7.0 starts on 25Aug2023 at  1:29:30 
+
+     This program is part of the open-source Quantum ESPRESSO suite
+     for quantum simulation of materials; please cite
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 21 395502 (2009);
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 29 465901 (2017);
+         "P. Giannozzi et al., J. Chem. Phys. 152 154105 (2020);
+          URL http://www.quantum-espresso.org", 
+     in publications or presentations arising from this work. More details at
+     http://www.quantum-espresso.org/quote
+
+     Serial version
+     6268 MiB available memory on the printing compute node when the environment starts
+
+
+     Reading xml data from directory:
+
+     ../tmp/gr.save/
+
+     IMPORTANT: XC functional enforced from input :
+     Exchange-correlation= PBE
+                           (   1   4   3   4   0   0   0)
+     Any further DFT definition will be discarded
+     Please, verify this is what you really want
+
+
+     G-vector sticks info
+     --------------------
+     sticks:   dense  smooth     PW     G-vecs:    dense   smooth      PW
+     Sum         241     241     85                18211    18211    3425
+
+     Using Slab Decomposition
+
+
+     Check: negative core charge=   -0.000016
+
+     negative rho (up, down):  4.223E-04 0.000E+00
+
+     Calling punch_plot, plot_num =   0
+     Writing data to file  tmp.pp
+     Message from routine chdens:
+     namelist plot not found or invalid, exiting
+
+     POST-PROC    :      0.35s CPU      0.54s WALL
+
+
+   This run was terminated on:   1:29:31  25Aug2023            
+
+=------------------------------------------------------------------------------=
+   JOB DONE.
+=------------------------------------------------------------------------------=
